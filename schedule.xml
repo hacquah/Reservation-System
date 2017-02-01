@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Show>
+    <viewers>
+      <Viewer>
+        <Firstname>James</Firstname>
+        <Lastname>Harden</Lastname>
+        <Seating>
+          <string>1A1</string>
+          <string>1A2</string>
+          <string>1A3</string>
+        </Seating>
+      </Viewer>
+      <Viewer>
+        <Firstname>test</Firstname>
+        <Lastname>testing</Lastname>
+        <Seating>
+          <string>0C3</string>
+          <string>0D2</string>
+          <string>0D3</string>
+          <string>0E2</string>
+          <string>0F4</string>
+          <string>0G2</string>
+          <string>0G3</string>
+        </Seating>
+      </Viewer>
+      <Viewer>
+        <Firstname>ha</Firstname>
+        <Lastname>ha</Lastname>
+        <Seating>
+          <string>0C5</string>
+          <string>0E5</string>
+          <string>0G6</string>
+        </Seating>
+      </Viewer>
+      <Viewer>
+        <Firstname>henry</Firstname>
+        <Lastname>acquah</Lastname>
+        <Seating>
+          <string>5C3</string>
+          <string>5D2</string>
+          <string>5D3</string>
+          <string>5E5</string>
+          <string>5F3</string>
+          <string>5G2</string>
+          <string>5G4</string>
+        </Seating>
+      </Viewer>
+    </viewers>
+    <code>1</code>
+    <Info>2015-05-05T15:30:00</Info>
+    <Name>Eragon</Name>
+  </Show>
+  <Show>
+    <viewers />
+    <code>2</code>
+    <Info>2015-05-10T17:00:00</Info>
+    <Name>Die by Fire</Name>
+  </Show>
+  <Show>
+    <viewers />
+    <code>5</code>
+    <Info>2015-05-25T12:30:00</Info>
+    <Name>Something Rotten</Name>
+  </Show>
+  <Show>
+    <viewers />
+    <code>9</code>
+    <Info>2015-05-15T00:00:00</Info>
+    <Name>The visit</Name>
+  </Show>
+  <Show>
+    <viewers />
+    <code>0</code>
+    <Info>2015-05-20T05:00:00</Info>
+    <Name>Something Borrowed</Name>
+  </Show>
+</ArrayOfShow>

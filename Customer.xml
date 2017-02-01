@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Firstname>James</Firstname>
+    <Lastname>Harden</Lastname>
+    <Age>26</Age>
+    <Address>11 Billy Ave</Address>
+    <PhoneNumber>222-666-4444</PhoneNumber>
+    <NameOnCard>jamesharden</NameOnCard>
+    <CardNumber>5665-5555-4444-6666</CardNumber>
+    <CardExpiration>01/28</CardExpiration>
+    <SecurityCode>254</SecurityCode>
+    <TypeofCard>AmericanExpress</TypeofCard>
+    <Seats />
+    <reservedShows />
+  </Customer>
+  <Customer>
+    <Firstname>Nate</Firstname>
+    <Lastname>Wilson</Lastname>
+    <Age>19</Age>
+    <Address>25 Willy ST</Address>
+    <PhoneNumber>454-663-9988</PhoneNumber>
+    <NameOnCard>Nate Wilsoon</NameOnCard>
+    <CardNumber>4444-5555-6666-7777</CardNumber>
+    <CardExpiration>02/18</CardExpiration>
+    <SecurityCode>545</SecurityCode>
+    <TypeofCard>MasterCard</TypeofCard>
+    <Seats />
+    <reservedShows />
+  </Customer>
+  <Customer>
+    <Firstname>Yeka</Firstname>
+    <Lastname>Abueh</Lastname>
+    <Age>22</Age>
+    <Address>Umass</Address>
+    <PhoneNumber>77453612</PhoneNumber>
+    <NameOnCard>Yeka Abueh</NameOnCard>
+    <CardNumber>12223345677</CardNumber>
+    <CardExpiration>09/19</CardExpiration>
+    <SecurityCode>212</SecurityCode>
+    <TypeofCard>Visa</TypeofCard>
+    <Seats />
+    <reservedShows />
+  </Customer>
+  <Customer>
+    <Firstname>test</Firstname>
+    <Lastname>testing</Lastname>
+    <Age>24</Age>
+    <Address>25 Jas st</Address>
+    <PhoneNumber>888-999-2525</PhoneNumber>
+    <NameOnCard>test testing</NameOnCard>
+    <CardNumber>1456-5554-6687-9897</CardNumber>
+    <CardExpiration>12/44</CardExpiration>
+    <SecurityCode>324</SecurityCode>
+    <TypeofCard>MasterCard</TypeofCard>
+    <Seats />
+    <reservedShows />
+  </Customer>
+  <Customer>
+    <Firstname>test</Firstname>
+    <Lastname>testing</Lastname>
+    <Age>24</Age>
+    <Address>25 Jas st</Address>
+    <PhoneNumber>888-999-2525</PhoneNumber>
+    <NameOnCard>test testing</NameOnCard>
+    <CardNumber>1456-5554-6687-9897</CardNumber>
+    <CardExpiration>12/44</CardExpiration>
+    <SecurityCode>324</SecurityCode>
+    <TypeofCard>MasterCard</TypeofCard>
+    <Seats />
+    <reservedShows />
+  </Customer>
+  <Customer>
+    <Firstname>test</Firstname>
+    <Lastname>testing</Lastname>
+    <Age>24</Age>
+    <Address>25 Jas st</Address>
+    <PhoneNumber>888-999-2525</PhoneNumber>
+    <NameOnCard>test testing</NameOnCard>
+    <CardNumber>1456-5554-6687-9897</CardNumber>
+    <CardExpiration>12/44</CardExpiration>
+    <SecurityCode>324</SecurityCode>
+    <TypeofCard>MasterCard</TypeofCard>
+    <Seats />
+    <reservedShows />
+  </Customer>
+  <Customer>
+    <Firstname>ha</Firstname>
+    <Lastname>ha</Lastname>
+    <Age />
+    <Address />
+    <PhoneNumber />
+    <NameOnCard />
+    <CardNumber />
+    <CardExpiration />
+    <SecurityCode />
+    <TypeofCard />
+    <Seats />
+    <reservedShows />
+  </Customer>
+  <Customer>
+    <Firstname>henry</Firstname>
+    <Lastname>acquah</Lastname>
+    <Age>12</Age>
+    <Address>231231</Address>
+    <PhoneNumber>1232132</PhoneNumber>
+    <NameOnCard>1231231231</NameOnCard>
+    <CardNumber>2123212312</CardNumber>
+    <CardExpiration>212323123123</CardExpiration>
+    <SecurityCode>32123123122</SecurityCode>
+    <TypeofCard>Visa</TypeofCard>
+  </Customer>
+  <Customer>
+    <Firstname>henry</Firstname>
+    <Lastname>acquah</Lastname>
+    <Age>12</Age>
+    <Address>231231</Address>
+    <PhoneNumber>1232132</PhoneNumber>
+    <NameOnCard>1231231231</NameOnCard>
+    <CardNumber>2123212312</CardNumber>
+    <CardExpiration>212323123123</CardExpiration>
+    <SecurityCode>32123123122</SecurityCode>
+    <TypeofCard>Visa</TypeofCard>
+  </Customer>
+</ArrayOfCustomer>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <username>Adam</username>
+    <password>employee</password>
+  </Employee>
+  <Employee>
+    <username>Buck</username>
+    <password>employee</password>
+  </Employee>
+  <Employee>
+    <username>hanny123</username>
+    <password>galaxy6sedge</password>
+  </Employee>
+  <Employee>
+    <username>hanna</username>
+    <password>galaxy</password>
+  </Employee>
+  <Employee>
+    <username>hen</username>
+    <password>1</password>
+  </Employee>
+  <Employee>
+    <username>hacquah</username>
+    <password>hey</password>
+  </Employee>
+  <Employee>
+    <username>sergio</username>
+    <password>1234</password>
+  </Employee>
+</ArrayOfEmployee>

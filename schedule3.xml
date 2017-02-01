@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Show>
+    <viewers />
+    <code>1</code>
+    <Info>2015-05-05T20:30:00</Info>
+    <Name>Aladdin</Name>
+  </Show>
+  <Show>
+    <viewers />
+    <code>2</code>
+    <Info>2015-05-10T17:00:00</Info>
+    <Name>Chicago</Name>
+  </Show>
+  <Show>
+    <viewers />
+    <code>3</code>
+    <Info>2015-05-15T20:30:00</Info>
+    <Name>Finding Neverland</Name>
+  </Show>
+  <Show>
+    <viewers />
+    <code>4</code>
+    <Info>2015-05-20T10:00:00</Info>
+    <Name>Kinky Boots</Name>
+  </Show>
+  <Show>
+    <viewers />
+    <code>5</code>
+    <Info>2015-05-25T12:30:00</Info>
+    <Name>Les Miserables</Name>
+  </Show>
+</ArrayOfShow>
